@@ -1,11 +1,7 @@
 # Genotype-Data-Integration-and-QC-Pipeline-for-dbGaP-Submission-PLINK-Unix-
 Reproducible Unix and PLINK pipeline for integrating, harmonizing, and quality-controlling multi-platform genotype data into a dbGaP-ready dataset.
-
-----
-
 This project implements a reproducible Unix-based pipeline using PLINK to process, harmonize, and merge genotype data from multiple platforms into a single dbGaP-compliant dataset.
-
----
+----
 
 ## Project Overview
 
